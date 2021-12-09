@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/JuniorReactRecruitmentTask3/static/css/main.0db19f8f.chunk.css",
+    "main.js": "/JuniorReactRecruitmentTask3/static/js/main.c8b40b97.chunk.js",
+    "main.js.map": "/JuniorReactRecruitmentTask3/static/js/main.c8b40b97.chunk.js.map",
+    "runtime-main.js": "/JuniorReactRecruitmentTask3/static/js/runtime-main.3f99259f.js",
+    "runtime-main.js.map": "/JuniorReactRecruitmentTask3/static/js/runtime-main.3f99259f.js.map",
+    "static/js/2.cae61c62.chunk.js": "/JuniorReactRecruitmentTask3/static/js/2.cae61c62.chunk.js",
+    "static/js/2.cae61c62.chunk.js.map": "/JuniorReactRecruitmentTask3/static/js/2.cae61c62.chunk.js.map",
+    "index.html": "/JuniorReactRecruitmentTask3/index.html",
+    "static/css/main.0db19f8f.chunk.css.map": "/JuniorReactRecruitmentTask3/static/css/main.0db19f8f.chunk.css.map",
+    "static/js/2.cae61c62.chunk.js.LICENSE.txt": "/JuniorReactRecruitmentTask3/static/js/2.cae61c62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f99259f.js",
+    "static/js/2.cae61c62.chunk.js",
+    "static/css/main.0db19f8f.chunk.css",
+    "static/js/main.c8b40b97.chunk.js"
+  ]
+}
